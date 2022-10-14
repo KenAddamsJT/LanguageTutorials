@@ -34,4 +34,4 @@ Vectors, Matrices and Arrays
 -> inline functions in python are declared using lambda var_name: var_name.operation
 -> np.vectorize(func_name) generates a vectorized function from a general function func_name.
 -> np.max(matrix_name) returns the largest element in the matrix.
-
+#comment bhai comment
